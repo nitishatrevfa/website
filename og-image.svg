@@ -25,10 +25,10 @@
   <rect x="88" y="82" width="7" height="36" rx="3.5" fill="url(#accent)"/>
   <path d="M98 112V86h13.2c6.2 0 10.3 3.4 10.3 8.7 0 4-2.4 6.9-6.3 8.1l7 9.2h-7.1l-6.1-8.4h-5.1v8.4H98Zm5.9-13.4h6.8c3.2 0 4.9-1.2 4.9-3.7s-1.7-3.7-4.9-3.7h-6.8v7.4Z" fill="white"/>
   <text x="158" y="112" fill="white" font-family="Inter, Arial, sans-serif" font-size="39" font-weight="700" letter-spacing="-1">Revfa</text>
-  <text x="74" y="244" fill="#9FB4F8" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="2.4">PERFORMANCE-BASED B2B LEAD GENERATION</text>
-  <text x="74" y="330" fill="white" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2.6">Qualified meetings.</text>
-  <text x="74" y="405" fill="white" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2.6">Pay only when they show.</text>
-  <text x="74" y="486" fill="#AEBBD1" font-family="Inter, Arial, sans-serif" font-size="25">Fully month-to-month. No payment for meetings you decline.</text>
+  <text x="74" y="244" fill="#9FB4F8" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="2.4">WEBSITE DESIGN &amp; MARKETING SYSTEMS</text>
+  <text x="74" y="330" fill="white" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2.6">Websites built to convert.</text>
+  <text x="74" y="405" fill="white" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2.6">Systems built to scale.</text>
+  <text x="74" y="486" fill="#AEBBD1" font-family="Inter, Arial, sans-serif" font-size="25">Website design, paid advertising, lead generation, and tracking.</text>
   <rect x="74" y="548" width="1052" height="1" fill="url(#accent)" opacity=".7"/>
   <text x="74" y="586" fill="#7184A5" font-family="Inter, Arial, sans-serif" font-size="20">revfa.com</text>
 </svg>
