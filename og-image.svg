@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="10" x2="1130" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#15264C"/>
+      <stop offset="0.56" stop-color="#0B1530"/>
+      <stop offset="1" stop-color="#071126"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(850 40) rotate(130) scale(540 400)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4D72EF" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#4D72EF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="84" y1="72" x2="166" y2="154" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7895FF"/>
+      <stop offset=".6" stop-color="#315CE8"/>
+      <stop offset="1" stop-color="#B99A62"/>
+    </linearGradient>
+    <pattern id="grid" width="58" height="58" patternUnits="userSpaceOnUse">
+      <path d="M58 0H0V58" fill="none" stroke="#FFFFFF" stroke-opacity=".04"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <rect x="74" y="68" width="64" height="64" rx="17" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <rect x="88" y="82" width="7" height="36" rx="3.5" fill="url(#accent)"/>
+  <path d="M98 112V86h13.2c6.2 0 10.3 3.4 10.3 8.7 0 4-2.4 6.9-6.3 8.1l7 9.2h-7.1l-6.1-8.4h-5.1v8.4H98Zm5.9-13.4h6.8c3.2 0 4.9-1.2 4.9-3.7s-1.7-3.7-4.9-3.7h-6.8v7.4Z" fill="white"/>
+  <text x="158" y="112" fill="white" font-family="Inter, Arial, sans-serif" font-size="39" font-weight="700" letter-spacing="-1">Revfa</text>
+  <text x="74" y="244" fill="#9FB4F8" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="2.4">WEBSITE DESIGN &amp; MARKETING SYSTEMS</text>
+  <text x="74" y="330" fill="white" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2.6">Websites built to convert.</text>
+  <text x="74" y="405" fill="white" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2.6">Systems built to scale.</text>
+  <text x="74" y="486" fill="#AEBBD1" font-family="Inter, Arial, sans-serif" font-size="25">Website design, paid advertising, lead generation, and tracking.</text>
+  <rect x="74" y="548" width="1052" height="1" fill="url(#accent)" opacity=".7"/>
+  <text x="74" y="586" fill="#7184A5" font-family="Inter, Arial, sans-serif" font-size="20">revfa.com</text>
+</svg>
